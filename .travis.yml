@@ -14,7 +14,7 @@ script:
 
 deploy:
   provider: pages
-  repo: arc-lessons/hpc-champions-rsecon19
+  repo: james-grant1/hpc-champions-rsecon19
   target-branch: gh-pages
   local-dir: html
   github_token: $GITHUB_TOKEN
